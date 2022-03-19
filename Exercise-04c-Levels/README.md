@@ -1,9 +1,11 @@
 
-# Project 4
+# Project 04-2D Platformer
 
 The 4th project for MSCH-C220
 
-A 2D platformer project made in Godot.
+A 2D platformer project made in Godot. 
+
+## Implementation
 
 My additions
 -multiple levels connected from spawn points
@@ -12,9 +14,6 @@ My additions
 -camera follows plater
 -user controlled player, which can jump
 
-
-
-## Implementation
 
 Built using Godot 3.4.2
 
