@@ -11,7 +11,7 @@ My additions
 -multiple levels connected from spawn points
 -my own found sprites/multiple sprite sheets
 -music
--camera follows plater
+-camera follows player
 -user controlled player, which can jump
 
 
